@@ -29,4 +29,4 @@ Project Info<br/>
 [youtube] https://www.youtube.com/watch?v=tgNfUpkYtS0<br/>
 [git] 이전 repo(과정) https://github.com/Yeggggi/Squid_Project<br/>
  <br/>
-# -Diet-notes
+# -Diet-note
