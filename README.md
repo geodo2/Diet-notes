@@ -10,7 +10,7 @@
   
  
 </div>
-### Project Name: squidProject
+# Project Name: squidProject
 
 
 모바일 앱 개발 final project
