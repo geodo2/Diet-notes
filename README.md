@@ -31,4 +31,7 @@
 [youtube] https://www.youtube.com/watch?v=tgNfUpkYtS0<br/>
 [git] 이전 repo(과정) https://github.com/Yeggggi/Squid_Project<br/>
  <br/>
-
+### API
+* 화상 채팅
+* 사진 인식
+* 글자 인식
